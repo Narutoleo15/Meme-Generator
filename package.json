@@ -14,5 +14,19 @@
   "scripts": {
     "build": "webpack",
     "watch": "webpack -w"
-  }
+  },
+  "description": "Quick start:",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narutoleo15/Meme-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Narutoleo15/Meme-Generator/issues"
+  },
+  "homepage": "https://github.com/Narutoleo15/Meme-Generator#readme"
 }
